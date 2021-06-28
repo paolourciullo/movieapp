@@ -16,7 +16,7 @@
 
 # What's out in theaters right now?
 
-This is an app that uses themoviedb.org to display current box office selections in a structured, responsive design.
+This is an app that uses themoviedb.org to display current box office selections in a structured, responsive design.  A hover effect is used to display the description of the subject film.
 
 
 ## URL
